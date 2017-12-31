@@ -1,0 +1,12 @@
+{
+"rpc-enabled": true,
+"rpc-password": "admin",
+"rpc-username": "admin",
+"rpc-whitelist-enabled": false,
+"rpc-whitelist": "0.0.0.0",
+"rpc-port": 9091,
+"peer-port": 51413
+
+}
+
+
